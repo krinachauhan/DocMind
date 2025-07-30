@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+pdf2image
+pytesseract
+transformers
+torch
+sentence-transformers
+faiss-cpu
+reportlab
+python-dotenv
+pymupdf
